@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dsp_footprint_lib")(type "KiCad")(uri "${KIPRJMOD}/pico_dsp-backups/dsp_footprint_lib.pretty")(options "")(descr ""))
+)
