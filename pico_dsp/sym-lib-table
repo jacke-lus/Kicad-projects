@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "dsp_lib")(type "KiCad")(uri "${KIPRJMOD}/dsp_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "dsp_lib")(type "KiCad")(uri "/home/jacob/Dokument/Kicad/Kicad-symbols/dsp_lib.kicad_sym")(options "")(descr ""))
 )
